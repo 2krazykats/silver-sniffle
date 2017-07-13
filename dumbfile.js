@@ -1,1 +1,1 @@
-alert('help');
+alert('don't help');
